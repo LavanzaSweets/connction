@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "caramel tartlet -50% of price",
+    "name": "mango passion -50% of price",
     "description": "none",
     "imageUrl": "https://i.ibb.co/GxMyzqb/pirozhnoe-mango-marakujya-1-porciya.jpg"
   },
   {
     "id": 2,
-    "name": "10% discount",
-    "description": "10% discount on all bikes in our shop for all spring",
-    "imageUrl": "https://i.ibb.co/6Zc8x3B/22222.jpg"
+    "name": "-30% for chocolate bomb",
+    "description": "none",
+    "imageUrl": "https://i.ibb.co/nbXC93S/shokoladnaya-bomba-1-porciya.jpg"
   },
   {
     "id": 3,
-    "name": "30% discount",
-    "description": "Up to 30% discount on football merchandise",
-    "imageUrl": "https://i.ibb.co/GdpzfFL/222.png"
+    "name": "buy 2 teramisu, and one for free ",
+    "description": "none",
+    "imageUrl": "https://i.ibb.co/RP1S4Gr/tiramisu-maskarpone-2sht-22-1.jpg"
   },
   {
     "id": 4,
-    "name": "new adidas collection",
-    "description": "Double bonuses when purchasing a new adidas collection",
-    "imageUrl": "https://i.ibb.co/YN37h1j/2024-03-15-16-23-14.png"
+    "name": "1 + 1 for chocolate mousse",
+    "description": "none",
+    "imageUrl": "https://i.ibb.co/gMXnWJW/pirozhnoe-s-shokoladnym-mussom-0.jpg"
   }
 ]
