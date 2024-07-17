@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "caramel tartlet -50% of price",
+    "description": "none",
+    "imageUrl": "https://i.ibb.co/GxMyzqb/pirozhnoe-mango-marakujya-1-porciya.jpg"
+  },
+  {
+    "id": 2,
+    "name": "10% discount",
+    "description": "10% discount on all bikes in our shop for all spring",
+    "imageUrl": "https://i.ibb.co/6Zc8x3B/22222.jpg"
+  },
+  {
+    "id": 3,
+    "name": "30% discount",
+    "description": "Up to 30% discount on football merchandise",
+    "imageUrl": "https://i.ibb.co/GdpzfFL/222.png"
+  },
+  {
+    "id": 4,
+    "name": "new adidas collection",
+    "description": "Double bonuses when purchasing a new adidas collection",
+    "imageUrl": "https://i.ibb.co/YN37h1j/2024-03-15-16-23-14.png"
+  }
+]
